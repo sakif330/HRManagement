@@ -1,0 +1,69 @@
+c:\users\user\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\bin\Debug\SystemManagement.exe.config
+c:\users\user\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\bin\Debug\SystemManagement.exe
+c:\users\user\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\bin\Debug\SystemManagement.pdb
+c:\users\user\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.exe
+c:\users\user\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.pdb
+C:\Users\User\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Forms.Form_Dashboard.resources
+C:\Users\User\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_Home.resources
+C:\Users\User\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_Sales.resources
+C:\Users\User\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_Order.resources
+C:\Users\User\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Forms.Form_Order.resources
+C:\Users\User\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Forms.Form_Menu.resources
+C:\Users\User\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_Menu.resources
+C:\Users\User\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Forms.Form_total.resources
+C:\Users\User\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_User.resources
+C:\Users\User\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Forms.Form_Bl.resources
+C:\Users\User\documents\visual studio 2015\Projects\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_Emp.resources
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\bin\Debug\SystemManagement.exe.config
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.pdb
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\bin\Debug\SystemManagement.exe
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\bin\Debug\SystemManagement.pdb
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.csprojResolveAssemblyReference.cache
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Forms.Form_Bl.resources
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Forms.Form_Dashboard.resources
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Forms.Form_Menu.resources
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Forms.Form_Order.resources
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Forms.Form_total.resources
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Properties.Resources.resources
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Form1.resources
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_Emp.resources
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_Home.resources
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_Menu.resources
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_Order.resources
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_Sales.resources
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_User.resources
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.csproj.GenerateResource.Cache
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.exe
+C:\Users\TSP\Downloads\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Employee.EmpAtnd.resources
+F:\SystemManagement\SystemManagement\bin\Debug\SystemManagement.exe.config
+F:\SystemManagement\SystemManagement\bin\Debug\SystemManagement.exe
+F:\SystemManagement\SystemManagement\bin\Debug\SystemManagement.pdb
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.csprojResolveAssemblyReference.cache
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Employee.EmpAtnd.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Forms.Form_Bl.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Forms.Form_Dashboard.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Forms.Form_Menu.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Forms.Form_Order.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Forms.Form_total.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Properties.Resources.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Form1.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_Emp.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_Home.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_Menu.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_Order.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_Sales.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_User.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.csproj.GenerateResource.cache
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.csproj.CoreCompileInputs.cache
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.csproj.CopyComplete
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.exe
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.pdb
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.UserControls.UC_Room.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Room.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Employee.EmpReg.resources
+F:\SystemManagement\SystemManagement\obj\Debug\SystemManagement.Employee.EmpList.resources
